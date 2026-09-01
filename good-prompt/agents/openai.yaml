@@ -1,0 +1,3 @@
+interface:
+  display_name: "Good Prompt"
+  short_description: "Write or edit a skill, prompt (including in code), or AGENTS.md"
